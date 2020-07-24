@@ -15,7 +15,7 @@
 <br />
 <br />
 
-I'm a software engineer based in Halifax, NS 
+I'm a software developer based in Halifax, NS 
 specializing in building and designing exceptional websites, applications, and everything in between.
 
 I'm currently looking for exciting internship opportunities, my inbox is always open. 
