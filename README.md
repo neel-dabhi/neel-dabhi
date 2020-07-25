@@ -1,15 +1,15 @@
 # Hello World,
 
-<a href="https://www.linkedin.com/in/neelkanthjdabhi/">
+<a href="https://www.linkedin.com/in/neelkanthjdabhi/" target="_blank">
   <img align="left" alt="Neelkanth Dabhi - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
-<a href="https://instagram.com/neelkanthjdabhi">
+<a href="https://instagram.com/neelkanthjdabhi" target="_blank">
   <img align="left" alt="Neelkanth Dabhi - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
-<a href="https://twitter.com/neelkanthjdabhi">
+<a href="https://twitter.com/neelkanthjdabhi" target="_blank">
   <img align="left" alt="Neelkanth Dabhi - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
-<a href="https://facebook.com/neelkanthjdabhi">
+<a href="https://facebook.com/neelkanthjdabhi" target="_blank">
   <img align="left" alt="Neelkanth Dabhi - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
 <br />
