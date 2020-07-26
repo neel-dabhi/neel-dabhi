@@ -12,6 +12,9 @@
 <a href="https://facebook.com/neelkanthjdabhi" target="_blank">
   <img align="left" alt="Neelkanth Dabhi - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
+<a href="https://play.google.com/store/apps/dev?id=6046192430595446165" target="_blank">
+  <img align="left" alt="Neelkanth Dabhi - Google Play" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg"/>
+</a>
 <br />
 <br />
 
