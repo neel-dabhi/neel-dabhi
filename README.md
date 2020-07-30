@@ -1,37 +1,19 @@
-# Hello World,
+<h1 align="center">Hi 👋, I'm Neelkanth</h1>
+<h3 align="center">Designer. Developer. Photographer.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neelkanthjdabhi" alt="neelkanthjdabhi" /> </p>
 
-<a href="https://www.linkedin.com/in/neelkanthjdabhi/" target="_blank">
-  <img align="left" alt="Neelkanth Dabhi - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a>
-<a href="https://instagram.com/neelkanthjdabhi" target="_blank">
-  <img align="left" alt="Neelkanth Dabhi - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
-</a>
-<a href="https://twitter.com/neelkanthjdabhi" target="_blank">
-  <img align="left" alt="Neelkanth Dabhi - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
-</a>
-<a href="https://facebook.com/neelkanthjdabhi" target="_blank">
-  <img align="left" alt="Neelkanth Dabhi - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
-</a>
-<a href="https://play.google.com/store/apps/dev?id=6046192430595446165" target="_blank">
-  <img align="left" alt="Neelkanth Dabhi - Google Play" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg"/>
-</a>
-<br />
-<br />
+- 🔭 I’m currently working on [Directly](https://github.com/neelkanthjdabhi/Directly)
 
-I'm a software developer based in Halifax, NS 
-specializing in building and designing exceptional websites, applications, and everything in between.
+- 💬 Ask me about **Android, Java, anything UI/UX and life!**
 
-I'm currently looking for exciting internship opportunities, my inbox is always open. 
-Whether you have a question or just want to say hi, I'll try my best to get back to you, as soon as possible! ping me on neelkanth@dal.ca
+- 📫 How to reach me **neelkanth@dal.ca**
 
-Technologies:
-- Java, Android, Node.js, Sails.js, Docker, AWS and Firebase
-- UI/UX Designing, Adobe XD, Adobe After Effects
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amruthpillai&show_icons=true" alt="amruthpillai" />
 
-Also interested in:
-- Motion Design and Human Computer Interaction
-
-
-Cheers,  
-Neelkanth J. Dabhi  
-[neelkanthjdabhi.github.io](https://neelkanthjdabhi.github.io/)
+<p align="center">
+ <a href="https://play.google.com/store/apps/dev?id=6046192430595446165" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleplay.svg" alt="neelkanthjdabhi" height="20" width="20" /></a>
+<a href="https://twitter.com/neelkanthjdabhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="neelkanthjdabhi" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/neelkanthjdabhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neelkanthjdabhi" height="20" width="20" /></a>
+<a href="https://fb.com/neelkanthjdabhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="neelkanthjdabhi" height="20" width="20" /></a>
+<a href="https://instagram.com/neelkanthjdabhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="neelkanthjdabhi" height="20" width="20" /></a>
+</p>
