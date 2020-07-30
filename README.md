@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **neelkanth@dal.ca**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amruthpillai&show_icons=true" alt="amruthpillai" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=neelkanthjdabhi&show_icons=true" alt="neelkanthjdabhi" />
 
 <p align="center">
  <a href="https://play.google.com/store/apps/dev?id=6046192430595446165" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleplay.svg" alt="neelkanthjdabhi" height="20" width="20" /></a>
