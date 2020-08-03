@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neelkanth.</h1>
+<h1 align="center">Hi 👋🏽, I'm Neelkanth.</h1>
 <h3 align="center">Designer. Developer. Photographer.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=neelkanthjdabhi" alt="neelkanthjdabhi" /> </p>
 
