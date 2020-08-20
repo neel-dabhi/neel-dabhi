@@ -25,7 +25,7 @@ I'm a software engineer based in Halifax, NS specializing in building and design
 websites, applications, and everything in between.
 
 ❯ 🌎 Website           neelkanthjdabhi.github.io/
-❯ 💼 LinkedIn	       linkedin.com/in/neelkanthjdabhi
+❯ 💼 LinkedIn          linkedin.com/in/neelkanthjdabhi
 ❯ 📬 Email             neelkanth@dal.ca
 ❯ 🐦 Twitter           @neelkanthjdabhi
 ❯ 👔 Résumé            neelkanthjdabhi.github.io/resume.pdf
