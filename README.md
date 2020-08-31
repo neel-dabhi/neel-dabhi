@@ -18,7 +18,5 @@ websites, applications, and everything in between.
 ❯ 🌎 Website           neelkanthjdabhi.github.io/
 ❯ 💼 LinkedIn          linkedin.com/in/neelkanthjdabhi
 ❯ 📬 Email             neelkanth@dal.ca
-❯ 🐦 Twitter           @neelkanthjdabhi
 ❯ 👔 Résumé            neelkanthjdabhi.github.io/resume.pdf
-❯ 🔐 PGP Key           cutt.ly/neel-pubkey
 ```
